@@ -1,0 +1,9 @@
+{
+	"auto_upgrade_last_run": 1352479000,
+	"installed_packages":
+	[
+		"ExpressionEngine",
+		"Package Control",
+		"Sublime Finder"
+	]
+}

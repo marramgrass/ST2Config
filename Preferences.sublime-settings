@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Packages/User/Modified - Solarized (Dark).tmTheme",
+
+	"font_face": "Meslo LG L DZ",
+	"font_size": 14,
+
+	"rulers": [80, 160],
+
+	"auto_complete_commit_on_tab": false,
+
+	"find_selected_text": true,
+
+	"drag_text": false,
+
+	// UI
+
+	"highlight_modified_tabs": true
+}
