@@ -1,3 +1,6 @@
+.DS_Store
+__MACOSX__
+
 *.py[co]
 
 # Packages
